@@ -1,0 +1,10 @@
+<centertab scriptid="custcentertab_sb_suitellm_chat">
+  <allcustomers>F</allcustomers>
+  <allemployees>F</allemployees>
+  <allpartners>F</allpartners>
+  <allroles>F</allroles>
+  <allvendors>F</allvendors>
+  <audslctrole>ADMINISTRATOR</audslctrole>
+  <center>BASIC</center>
+  <label>SuiteLLM Chat</label>
+</centertab>
