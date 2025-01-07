@@ -44,7 +44,7 @@ define(['N/ui/serverWidget', 'N/llm', 'N/query'], (serverWidget, llm, query) => 
             const htmlField = form.addField({
                 id: 'custpage_react_ui',
                 type: serverWidget.FieldType.INLINEHTML,
-                label: 'SuiteLLM Chat App'
+                label: 'SuiteLLM Chat'
             });
 
             // Retrieve React App URL dynamically
