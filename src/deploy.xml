@@ -7,8 +7,9 @@
         <path>~/FileCabinet/SuiteScripts/suitellm-chat/suitellm-react-app.js</path>
     </files>
     <objects>
-        <path>~/Objects/customscript_sb_sl_suitellm.xml</path>
         <path>~/Objects/custcentertab_sb_suitellm_chat.xml</path>
+        <path>~/Objects/customscript_sb_sl_suitellm.xml</path>
+        <path>~/Objects/custcentercategory_sb_suitellm_chat.xml</path>
     </objects>
     <translationimports>
         <path>~/Translations/*</path>

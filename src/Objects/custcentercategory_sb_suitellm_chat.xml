@@ -1,0 +1,13 @@
+<centercategory scriptid="custcentercategory_sb_suitellm_chat">
+  <center>BASIC</center>
+  <centertab>[scriptid=custcentertab_sb_suitellm_chat]</centertab>
+  <label>SuiteLLM Chat</label>
+  <links>
+    <link>
+      <linklabel>SuiteLLM Chat</linklabel>
+      <linkobject>[scriptid=customscript_sb_sl_suitellm.customdeploy_sb_sl_suitellm]</linkobject>
+      <linktasktype>SCRIPT</linktasktype>
+      <shortlist>F</shortlist>
+    </link>
+  </links>
+</centercategory>

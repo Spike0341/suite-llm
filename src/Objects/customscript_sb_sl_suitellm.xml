@@ -20,6 +20,8 @@
       <runasrole>ADMINISTRATOR</runasrole>
       <status>RELEASED</status>
       <title>SB SL SuiteLLM</title>
+      <tab>customcentertab_suitellm</tab>
+      <category>customcentercategory_suitellm</category>
     </scriptdeployment>
   </scriptdeployments>
 </suitelet>
